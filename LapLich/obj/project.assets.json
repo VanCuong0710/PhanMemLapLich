@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\84866\\Desktop\\LapLich\\LapLich.csproj",
+      "projectUniqueName": "C:\\Users\\84866\\Desktop\\Lập lịch\\PhanMemLapLich\\LapLich\\LapLich.csproj",
       "projectName": "LapLich",
-      "projectPath": "C:\\Users\\84866\\Desktop\\LapLich\\LapLich.csproj",
+      "projectPath": "C:\\Users\\84866\\Desktop\\Lập lịch\\PhanMemLapLich\\LapLich\\LapLich.csproj",
       "packagesPath": "C:\\Users\\84866\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\84866\\Desktop\\LapLich\\obj\\",
+      "outputPath": "C:\\Users\\84866\\Desktop\\Lập lịch\\PhanMemLapLich\\LapLich\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\84866\\AppData\\Roaming\\NuGet\\NuGet.Config",

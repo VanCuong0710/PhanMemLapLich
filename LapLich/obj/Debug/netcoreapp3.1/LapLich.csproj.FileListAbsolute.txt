@@ -1,0 +1,17 @@
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\bin\Debug\netcoreapp3.1\LapLich.exe
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\bin\Debug\netcoreapp3.1\LapLich.deps.json
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\bin\Debug\netcoreapp3.1\LapLich.runtimeconfig.json
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\bin\Debug\netcoreapp3.1\LapLich.runtimeconfig.dev.json
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\bin\Debug\netcoreapp3.1\LapLich.dll
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\bin\Debug\netcoreapp3.1\LapLich.pdb
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.csproj.AssemblyReference.cache
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.AJob.resources
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.DailyPlan.resources
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.Form1.resources
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.csproj.GenerateResource.cache
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.AssemblyInfoInputs.cache
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.AssemblyInfo.cs
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.csproj.CoreCompileInputs.cache
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.dll
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.pdb
+C:\Users\84866\Desktop\Lập lịch\PhanMemLapLich\LapLich\obj\Debug\netcoreapp3.1\LapLich.genruntimeconfig.cache
